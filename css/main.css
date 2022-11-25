@@ -87,7 +87,7 @@ body {
 .mainVisual .inner {
   position: absolute;
   top: 50%;
-  left: 97%;
+  left: 100%;
   transform: translate(-50%, -50%);
 }
 
